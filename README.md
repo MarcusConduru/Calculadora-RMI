@@ -26,8 +26,8 @@ multiplica num1 por num2
 
 divide num1 por num2 
 
-num1 por cento de num2 
+potencia num1 elevado por num2  
 
-num1 elevado por num2  
+porcentagem num1 por cento de num2 
 
 raiz num2 indice, num1 radicando
