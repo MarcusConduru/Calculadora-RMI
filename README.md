@@ -25,3 +25,5 @@ divide num1 por num2
 num1 por cento de num2 
 num1 elevado por num2  
 raiz num2 indice, num1 radicando
+
+dsfgsd
